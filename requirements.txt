@@ -1,0 +1,3 @@
+pyglet==1.2.0
+pymunk==4.0.0
+lutes==1.0.0a1
